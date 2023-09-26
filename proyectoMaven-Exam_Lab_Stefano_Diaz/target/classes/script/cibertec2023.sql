@@ -1,8 +1,9 @@
--- -----------------------------------------
+
 -- Base de Datos : cibertec2023
--- Autor : José Carlos, García La Riva
 -- Fecha : 31-Agosto-2022
+-- Alumno : Stefano Gabriel Diaz Marcelo
 -- -----------------------------------------
+create database cibertec2023;
 
 use cibertec2023;
 
