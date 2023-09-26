@@ -1,6 +1,6 @@
 
 -- Base de Datos : cibertec2023
--- Fecha : 31-Agosto-2022
+-- Fecha : 29-Septiembre-2023
 -- Alumno : Stefano Gabriel Diaz Marcelo
 -- -----------------------------------------
 create database cibertec2023;
