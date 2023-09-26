@@ -3,7 +3,6 @@
 -- Fecha : 25-Septiembre-2023
 -- Alumno : Stefano Gabriel Diaz Marcelo
 
--- -----------------------------------------
 
 use cibertec2023;
 
