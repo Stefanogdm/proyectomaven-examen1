@@ -1,7 +1,7 @@
 
 
 -- Base de Datos : cibertec2023
--- Fecha : 25-Agosto-2023
+-- Fecha : 25-Septiembre-2023
 -- Alumno : Stefano Gabriel Diaz Marcelo
 
 -- -----------------------------------------
